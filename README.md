@@ -99,3 +99,9 @@ MIT License
 ## Contact
 
 Righteous Kwaku Agoha
+
+## Key Figure: Anti-CRISPR Genomic Location
+
+![Acr genomic location](figures/fig_acr_context.png)
+
+**Supplementary Figure: Anti-CRISPR protein families and genomic location.** (a) AcrIIC1 dominates (76/81 genes), with all copies chromosomally located. (b) Distribution by source compartment. (c) Per-ST tile showing that all cross-niche STs carry exclusively chromosomal AcrIIC1. Only 3 of 96 Acr genes are plasmid-borne, none on cross-niche PRPs.
