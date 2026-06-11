@@ -1,0 +1,79 @@
+isolate_id,ST,source,city,facility
+GT-027,ST1290,Animal,Accra,Abattoir
+GT-096,ST969,Animal,Accra,Abattoir
+CTL-233B,ST465-1LV,Animal,Accra,Cattle Farm
+CTL-233F,ST259-1LV,Animal,Accra,Cattle Farm
+PF-002,ST101,Animal,Accra,Poultry Farm
+PF-005,ST101,Animal,Accra,Poultry Farm
+PF-007,ST101,Animal,Accra,Poultry Farm
+PF-028,ST101,Animal,Accra,Poultry Farm
+PF-029,ST101,Animal,Accra,Poultry Farm
+PF-036,ST629-1LV,Animal,Accra,Poultry Farm
+PF-047,ST200,Animal,Accra,Poultry Farm
+PF-088,ST2446,Animal,Accra,Poultry Farm
+PF-200C,ST2438-1LV,Animal,Accra,Poultry Farm
+PF-200F,ST4244-1LV,Animal,Accra,Poultry Farm
+PF-201A,ST776,Animal,Accra,Poultry Farm
+PF-201B,ST776,Animal,Accra,Poultry Farm
+PF-201D,ST4429-2LV,Animal,Accra,Poultry Farm
+PF-204A,ST259-1LV,Animal,Accra,Poultry Farm
+PF-206B,ST200,Animal,Accra,Poultry Farm
+PF-207B,ST1903-2LV,Animal,Accra,Poultry Farm
+PF-209B,ST1689,Animal,Accra,Poultry Farm
+UGK10,ST45,Environment,Accra,Korle Lagoon
+UGK13,ST17-4LV,Environment,Accra,Korle Lagoon
+UGK15,ST488-1LV,Environment,Accra,Korle Lagoon
+UGK17,ST3237-1LV,Environment,Accra,Korle Lagoon
+UGK18,ST300-3LV,Environment,Accra,Korle Lagoon
+UGK19,ST5028,Environment,Accra,Korle Lagoon
+UGK2,ST340-3LV,Environment,Accra,Korle Lagoon
+UGK21,ST111,Environment,Accra,Korle Lagoon
+UGK22,ST222,Environment,Accra,Korle Lagoon
+UGK23,ST45-2LV,Environment,Accra,Korle Lagoon
+UGK26,ST657-1LV,Environment,Accra,Korle Lagoon
+UGK27,ST17,Environment,Accra,Korle Lagoon
+UGK28,ST15,Environment,Accra,Korle Lagoon
+UGK29,ST39,Environment,Accra,Korle Lagoon
+UGK32,ST138-1LV,Environment,Accra,Korle Lagoon
+UGK33,ST2632,Environment,Accra,Korle Lagoon
+UGK34,ST222,Environment,Accra,Korle Lagoon
+UGK36,ST2601-1LV,Environment,Accra,Korle Lagoon
+UGK37,ST3345-2LV,Environment,Accra,Korle Lagoon
+UGK40,ST17,Environment,Accra,Korle Lagoon
+UGK5,ST3567,Environment,Accra,Korle Lagoon
+UGK50,ST1427,Environment,Accra,Korle Lagoon
+UGK51,ST163-2LV,Environment,Accra,Korle Lagoon
+UGK53,ST2053,Environment,Accra,Korle Lagoon
+UGK54,ST147,Environment,Accra,Korle Lagoon
+UGK55,ST5017,Environment,Accra,Korle Lagoon
+UGK56,ST2570,Environment,Accra,Korle Lagoon
+UGK57,ST5658-1LV,Environment,Accra,Korle Lagoon
+UGK59,ST101,Environment,Accra,Korle Lagoon
+UGK6,ST1537,Environment,Accra,Korle Lagoon
+UGK60,ST5030-1LV,Environment,Accra,Korle Lagoon
+UGK61,ST488-3LV,Environment,Accra,Korle Lagoon
+UGK63,ST34,Environment,Accra,Korle Lagoon
+UGK64,ST272-2LV,Environment,Accra,Korle Lagoon
+UGK65,ST526,Environment,Accra,Korle Lagoon
+UGK9,ST996-3LV,Environment,Accra,Korle Lagoon
+WT-005B,ST3991-1LV,Environment,Accra,Wastewater Pond
+HTH-565,ST15,Human,Ho,HTH
+KATH-5347,ST1427,Human,Kumasi,KATH
+KATH-B4072,ST17-1LV,Human,Kumasi,KATH
+KATH-B4169,ST15,Human,Kumasi,KATH
+KATH-B4432,ST2355,Human,Kumasi,KATH
+KATH-B4988,ST39,Human,Kumasi,KATH
+KATH-B5569,ST147,Human,Kumasi,KATH
+KATH-B5585,ST17,Human,Kumasi,KATH
+KATH-M1510,ST147,Human,Kumasi,KATH
+KATH-M1979,ST147,Human,Kumasi,KATH
+KATH-M2112,ST39,Human,Kumasi,KATH
+KATH-U3122,ST15,Human,Kumasi,KATH
+KBTH-2023,ST101,Human,Accra,KBTH
+KBTH-B1806,ST530,Human,Accra,KBTH
+KBTH-B2024,ST101,Human,Accra,KBTH
+KBTH-B2627,ST834-1LV,Human,Accra,KBTH
+KBTH-B2628,ST101,Human,Accra,KBTH
+KBTH-B2988,ST2791,Human,Accra,KBTH
+KBTH-B3325,ST147,Human,Accra,KBTH
+KBTH-B969,ST788,Human,Accra,KBTH

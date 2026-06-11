@@ -1,0 +1,30 @@
+# R
+.Rhistory
+.RData
+.Rproj.user
+*.RData
+*.Rproj
+
+# Data files (too large for git)
+data/raw_reads/
+data/assemblies/
+results/mob_suite/mob_recon/
+results/mob_suite/mob_typer/
+results/crispr/per_isolate/
+*.fasta
+*.fastq
+*.fastq.gz
+*.bam
+*.sam
+
+# Keep compiled results
+!results/mob_suite/MASTER_*.csv
+!results/crispr/compiled_results/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
