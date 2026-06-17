@@ -3,7 +3,7 @@
 ## Template for manuscript
 
 Raw sequencing reads have been deposited in the NCBI Sequence Read Archive under
-BioProject PRJNA_XXXXXX. Assembled genome sequences are available from the same
+BioProject PRJNA1478064. Assembled genome sequences are available from the same
 BioProject. All analysis code, including bioinformatics pipelines (genome assembly,
 plasmid reconstruction, CRISPR-Cas profiling, anti-CRISPR detection, spacer-plasmid
 BLAST analysis, and SNP-based clonal validation) and R scripts for statistical
@@ -22,7 +22,7 @@ Zenodo (DOI: 10.5281/zenodo.XXXXXXX).
    - Organism: Klebsiella pneumoniae
    - Register BioSamples for all 78 isolates
    - Upload raw FASTQ files to SRA
-   - Record the BioProject accession (PRJNA_XXXXXX)
+   - Record the BioProject accession (PRJNA1478064)
 
 2. GitHub repository:
    - Create at https://github.com/new

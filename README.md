@@ -84,7 +84,7 @@ kp_prp_analysis/
 
 ## Data Availability
 
-- Raw reads: NCBI SRA under BioProject [PRJNA_XXXXXX]
+- Raw reads: NCBI SRA under BioProject [PRJNA1478064]
 - Assembled genomes: [repository TBD]
 - This repository: https://github.com/righteousagoha/kp-prp-one-health-ghana
 
